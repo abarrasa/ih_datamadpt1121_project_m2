@@ -5,7 +5,7 @@
 In these visualizations about diamonds you can find different information and conclusions with just a glance.
 
 
-<p align="center"><img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif"></p>
+<p align="center"><img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif"></p>
 
 
 ---
