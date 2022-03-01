@@ -23,7 +23,7 @@ To visualize the data, we used **Power BI** tool, where, with some filters, you 
 
 In the `Units` sheet, there are some graphics and a world map. Here you can observe, using graphics as filter, the amount of diamonds depending on the selected variables like cut, color, cities, and clarity. 
 
-In the other sheet, `Price` , the filters show the different prices of these diamonds according to color, clarity, carats and cut.
+In the other sheet, `Price` , the filters show the different prices of these diamonds according to color, clarity, carats, cut and size.
 
 <p align="center"><img src="https://media.giphy.com/media/MBCodZbEhb2jSNUZNd/giphy.gif"></p>
 
